@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-ru-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/bento-stack-ru-light.png"><img alt="AI-инструменты (Claude Code, Codex, Antigravity) и стек технологий" src="assets/bento-stack-ru-dark.png" width="100%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-ru-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/bento-stack-ru-light.png"><img alt="Стек технологий: Kotlin, Compose, TypeScript, Electron, Svelte, Go, Xray, Cloudflare, Supabase" src="assets/bento-stack-ru-dark.png" width="100%"></picture>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <details>
-<summary><b>Read in English — Projects, Architecture &amp; AI Workflow</b></summary>
+<summary><b>Read in English — Projects &amp; Architecture</b></summary>
 
 <br>
 
@@ -47,6 +47,5 @@ Full visual English showcase: **[README.en.md](https://github.com/GXUser7/GXUser
 - **[YouCloud Web](https://github.com/GXUser7/YouCloud/tree/main/web)** ([live](https://youcloud.inkerror67.workers.dev)) — Browser edition built with Svelte 5, Vite 8, Cloudflare Workers (`/x/*` proxy &amp; live HLS rewrite), Web Audio API 40–130 Hz bass-reactive wave, Manifest V3 residential-IP bridge, and Go Native Messaging helper (`yt-dlp` + Deno + Discord IPC).
 - **[Yumi](https://github.com/GXUser7/yumi)** — Self-healing Xray VPN for Android &amp; Android TV: Kotlin 2.2, Jetpack Compose, `VLESS` (`REALITY`, `Vision`, `XHTTP`), `Hysteria2`, `WireGuard`, 20s in-tunnel payload &amp; DNS probes with automatic failover, and LAN Phone-as-Remote TV control.
 - **[Yumi Desktop](https://github.com/GXUser7/yumi-desktop)** — Cross-platform desktop VPN (Windows / macOS / Linux): Kotlin 2.3 + Compose UI backed by a SID/UID-locked Go 1.26 daemon (`YumiTunnel`), kernel-level Kill Switch (`WFP` / `nftables` / `pf`), "Location as Server" timezone &amp; geo-silencing, and `geoip`/`geosite` direct routing.
-- **AI-Native Workflow** — **Claude Code** (`CLAUDE.md` + `chrome-devtools-mcp`), **Codex** (`AGENTS.md` + Go system services + Playwright E2E), and **Google Antigravity** (`Orchestrator` multi-repo planning &amp; custom skills).
 
 </details>

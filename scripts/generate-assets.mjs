@@ -499,85 +499,14 @@ img, svg { display: block; }
   object-position: center;
 }
 
-/* ---------- BLOCK 7: BENTO AI & STACK (920x356) ---------- */
+/* ---------- BLOCK 7: BENTO STACK (920x184) ---------- */
 .bento-stack {
   width: 920px;
-  height: 356px;
+  height: 184px;
   display: grid;
-  grid-template-rows: 166px 180px;
-  gap: 10px;
+  grid-template-rows: 1fr;
   background: transparent;
 }
-.ai-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-}
-.ai-tile {
-  position: relative;
-  overflow: hidden;
-  background: var(--primary-container);
-  color: var(--on-primary-container);
-  padding: 18px 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  border-radius: 12px;
-}
-.ai-tile.tl { border-radius: 28px 12px 12px 12px; }
-.ai-tile.tr { border-radius: 12px 28px 12px 12px; }
-.ai-head {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-}
-.ai-badge {
-  position: relative;
-  width: 40px;
-  height: 40px;
-  display: grid;
-  place-items: center;
-  flex: none;
-}
-.ai-badge svg.shape {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  fill: var(--pastel);
-}
-.ai-badge svg.glyph {
-  position: relative;
-  width: 18px;
-  height: 18px;
-}
-.ai-pill {
-  height: 24px;
-  padding: 0 10px;
-  border-radius: 12px;
-  background: color-mix(in oklab, var(--on-primary-container) 11%, var(--primary-container));
-  color: var(--on-primary-container);
-  font-size: 11.5px;
-  font-weight: 700;
-  display: inline-flex;
-  align-items: center;
-}
-.ai-name {
-  font-family: 'Unbounded', sans-serif;
-  font-size: 17px;
-  font-weight: 800;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
-}
-.ai-desc {
-  margin-top: 4px;
-  font-size: 12.8px;
-  line-height: 1.38;
-  font-weight: 450;
-  opacity: 0.9;
-}
-
 .stack-row {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -592,8 +521,8 @@ img, svg { display: block; }
   flex-direction: column;
   justify-content: space-between;
 }
-.stack-tile.bl { border-radius: 12px 12px 12px 28px; }
-.stack-tile.br { border-radius: 12px 12px 28px 12px; }
+.stack-tile.bl { border-radius: 28px 12px 12px 28px; }
+.stack-tile.br { border-radius: 12px 28px 28px 12px; }
 .stack-head {
   display: flex;
   align-items: center;
@@ -866,42 +795,6 @@ function buildYouCloudWebHtml(lang) {
 
 function buildBentoStackHtml(lang) {
   const ru = lang === 'ru';
-  const agents = [
-    {
-      cls: 'tl',
-      hue: 32,
-      shape: 'cookie9',
-      name: 'Claude Code',
-      pill: 'MCP :9222',
-      desc: ru
-        ? 'Архитектура модулей по CLAUDE.md и живая работа во вкладках Masaki через chrome-devtools-mcp.'
-        : 'Module architecture via CLAUDE.md and live tab control in Masaki via chrome-devtools-mcp.',
-      glyph: `<svg class="glyph" viewBox="0 0 20 20" fill="none"><path d="M5 6.5L9.5 10L5 13.5M10.5 13.5H15" stroke="#1E1612" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
-    },
-    {
-      cls: '',
-      hue: 168,
-      shape: 'clover4',
-      name: 'Codex',
-      pill: 'AGENTS.md',
-      desc: ru
-        ? 'Автономная разработка по контрактам AGENTS.md, системные Go-службы и 20+ e2e-тестов на Playwright.'
-        : 'Autonomous coding governed by AGENTS.md, system Go daemons & 20+ Playwright E2E suites.',
-      glyph: `<svg class="glyph" viewBox="0 0 20 20" fill="none"><path d="M7.5 4.5C6 4.5 5.5 5.3 5.5 6.5V8.2C5.5 9.2 4.5 10 4 10C4.5 10 5.5 10.8 5.5 11.8V13.5C5.5 14.7 6 15.5 7.5 15.5M12.5 4.5C14 4.5 14.5 5.3 14.5 6.5V8.2C14.5 9.2 15.5 10 16 10C15.5 10 14.5 10.8 14.5 11.8V13.5C14.5 14.7 14 15.5 12.5 15.5" stroke="#003731" stroke-width="1.9" stroke-linecap="round"/></svg>`,
-    },
-    {
-      cls: 'tr',
-      hue: 280,
-      shape: 'flower6',
-      name: 'Antigravity',
-      pill: 'Orchestrator',
-      desc: ru
-        ? 'Двухфазное планирование Plan & Execute, исследование всех репозиториев и единый дизайн-язык.'
-        : 'Two-phase Plan & Execute orchestration, multi-repo synthesis & design consistency.',
-      glyph: `<svg class="glyph" viewBox="0 0 20 20" fill="none"><path d="M10 3L11.9 8.1L17 10L11.9 11.9L10 17L8.1 11.9L3 10L8.1 8.1Z" fill="#2A1D52"/></svg>`,
-    },
-  ];
-
   const categories = [
     {
       cls: 'bl',
@@ -933,21 +826,6 @@ function buildBentoStackHtml(lang) {
     },
   ];
 
-  const aiHtml = agents
-    .map(
-      (a) => `<div class="ai-tile ${a.cls}" data-hue="${a.hue}">
-  <div class="ai-head">
-    <div class="ai-badge">${shapeSvg(a.shape, 'shape')}${a.glyph}</div>
-    <span class="ai-pill">${a.pill}</span>
-  </div>
-  <div>
-    <div class="ai-name">${a.name}</div>
-    <p class="ai-desc">${a.desc}</p>
-  </div>
-</div>`
-    )
-    .join('');
-
   const stackHtml = categories
     .map(
       (cat) => `<div class="stack-tile ${cat.cls}">
@@ -961,7 +839,6 @@ function buildBentoStackHtml(lang) {
     .join('');
 
   return `<div class="bento-stack" data-hue="285">
-  <div class="ai-row">${aiHtml}</div>
   <div class="stack-row">${stackHtml}</div>
 </div>`;
 }

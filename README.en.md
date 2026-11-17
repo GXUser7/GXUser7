@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-en-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/bento-stack-en-light.png"><img alt="AI Agents (Claude Code, Codex, Antigravity) & Technology Stack" src="assets/bento-stack-en-dark.png" width="100%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bento-stack-en-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/bento-stack-en-light.png"><img alt="Technology Stack: Kotlin, Compose, TypeScript, Electron, Svelte, Go, Xray, Cloudflare, Supabase" src="assets/bento-stack-en-dark.png" width="100%"></picture>
 </p>
 
 <p align="center">
