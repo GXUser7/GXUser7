@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 370" width="590" height="370" role="img" aria-label="Masaki">
+  <defs>
+    <linearGradient id="cardBg_masaki_ru_light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F1FBF8"/>
+      <stop offset="100%" stop-color="#E3F6F0"/>
+    </linearGradient>
+    <radialGradient id="cardGlow_masaki_ru_light" cx="15%" cy="15%" r="70%">
+      <stop offset="0%" stop-color="#0B735B" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0B735B" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardClip_masaki_ru_light">
+      <rect x="0" y="0" width="590" height="370" rx="26"/>
+    </clipPath>
+    <linearGradient id="icon_masaki_ru_light" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#9EF2E4"/>
+  <stop offset="100%" stop-color="#5FB8C9"/>
+</linearGradient>
+  </defs>
+  <g clip-path="url(#cardClip_masaki_ru_light)">
+    <rect width="590" height="370" rx="26" fill="url(#cardBg_masaki_ru_light)"/>
+    <rect width="590" height="370" rx="26" fill="url(#cardGlow_masaki_ru_light)"/>
+    <path d="M515.0 172.7L520.2 173.1L525.3 174.2L530.3 176.0L535.1 178.4L539.6 181.4L543.8 185.0L547.7 189.0L551.3 193.4L554.5 198.0L557.4 202.7L559.9 207.5L562.2 212.3L564.3 217.0L566.2 221.4L568.0 225.7L569.8 229.6L571.6 233.2L573.6 236.4L575.7 239.4L578.0 242.0L580.6 244.3L583.6 246.4L586.8 248.4L590.4 250.2L594.3 252.0L598.6 253.8L603.0 255.7L607.7 257.8L612.5 260.1L617.3 262.6L622.0 265.5L626.6 268.7L631.0 272.3L635.0 276.2L638.6 280.4L641.6 284.9L644.0 289.7L645.8 294.7L646.9 299.8L647.3 305.0L646.9 310.2L645.8 315.3L644.0 320.3L641.6 325.1L638.6 329.6L635.0 333.8L631.0 337.7L626.6 341.3L622.0 344.5L617.3 347.4L612.5 349.9L607.7 352.2L603.0 354.3L598.6 356.2L594.3 358.0L590.4 359.8L586.8 361.6L583.6 363.6L580.6 365.7L578.0 368.0L575.7 370.6L573.6 373.6L571.6 376.8L569.8 380.4L568.0 384.3L566.2 388.6L564.3 393.0L562.2 397.7L559.9 402.5L557.4 407.3L554.5 412.0L551.3 416.6L547.7 421.0L543.8 425.0L539.6 428.6L535.1 431.6L530.3 434.0L525.3 435.8L520.2 436.9L515.0 437.3L509.8 436.9L504.7 435.8L499.7 434.0L494.9 431.6L490.4 428.6L486.2 425.0L482.3 421.0L478.7 416.6L475.5 412.0L472.6 407.3L470.1 402.5L467.8 397.7L465.7 393.0L463.8 388.6L462.0 384.3L460.2 380.4L458.4 376.8L456.4 373.6L454.3 370.6L452.0 368.0L449.4 365.7L446.4 363.6L443.2 361.6L439.6 359.8L435.7 358.0L431.4 356.2L427.0 354.3L422.3 352.2L417.5 349.9L412.7 347.4L408.0 344.5L403.4 341.3L399.0 337.7L395.0 333.8L391.4 329.6L388.4 325.1L386.0 320.3L384.2 315.3L383.1 310.2L382.7 305.0L383.1 299.8L384.2 294.7L386.0 289.7L388.4 284.9L391.4 280.4L395.0 276.2L399.0 272.3L403.4 268.7L408.0 265.5L412.7 262.6L417.5 260.1L422.3 257.8L427.0 255.7L431.4 253.8L435.7 252.0L439.6 250.2L443.2 248.4L446.4 246.4L449.4 244.3L452.0 242.0L454.3 239.4L456.4 236.4L458.4 233.2L460.2 229.6L462.0 225.7L463.8 221.4L465.7 217.0L467.8 212.3L470.1 207.5L472.6 202.7L475.5 198.0L478.7 193.4L482.3 189.0L486.2 185.0L490.4 181.4L494.9 178.4L499.7 176.0L504.7 174.2L509.8 173.1Z" fill="#0B735B" opacity="0.10">
+      <animateTransform attributeName="transform" type="rotate" from="0 515 305" to="360 515 305" dur="65s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Header -->
+    <g transform="translate(28 26) scale(0.25000)">
+  <path d="M100.0 10.0L103.2 7.9L106.6 6.1L110.0 4.9L113.5 4.3L116.8 4.5L120.1 5.5L123.1 7.2L125.9 9.5L128.5 12.3L130.8 15.4L132.9 18.6L134.9 21.5L137.0 24.2L139.1 26.4L141.5 28.1L144.2 29.3L147.2 30.1L150.5 30.5L154.1 30.8L157.9 31.1L161.7 31.5L165.4 32.3L168.8 33.5L171.8 35.3L174.3 37.6L176.2 40.5L177.4 43.8L178.0 47.4L178.2 51.2L177.9 55.0L177.6 58.8L177.2 62.4L177.0 65.7L177.3 68.8L178.0 71.6L179.3 74.2L181.1 76.8L183.3 79.2L185.9 81.7L188.6 84.4L191.3 87.2L193.6 90.2L195.4 93.3L196.6 96.6L197.0 100.0L196.6 103.4L195.4 106.7L193.6 109.8L191.3 112.8L188.6 115.6L185.9 118.3L183.3 120.8L181.1 123.2L179.3 125.8L178.0 128.4L177.3 131.2L177.0 134.3L177.2 137.6L177.6 141.2L177.9 145.0L178.2 148.8L178.0 152.6L177.4 156.2L176.2 159.5L174.3 162.4L171.8 164.7L168.8 166.5L165.4 167.7L161.7 168.5L157.9 168.9L154.1 169.2L150.5 169.5L147.2 169.9L144.2 170.7L141.5 171.9L139.1 173.6L137.0 175.8L134.9 178.5L132.9 181.4L130.8 184.6L128.5 187.7L125.9 190.5L123.1 192.8L120.1 194.5L116.8 195.5L113.5 195.7L110.0 195.1L106.6 193.9L103.2 192.1L100.0 190.0L96.9 187.8L94.0 185.7L91.2 183.9L88.4 182.5L85.6 181.7L82.7 181.5L79.6 181.8L76.3 182.6L72.9 183.5L69.2 184.6L65.5 185.5L61.7 186.0L58.1 186.0L54.6 185.3L51.5 184.0L48.8 182.0L46.5 179.3L44.7 176.1L43.3 172.6L42.1 168.9L41.2 165.3L40.3 161.8L39.3 158.6L38.1 155.8L36.4 153.4L34.3 151.3L31.8 149.6L28.8 148.0L25.5 146.5L22.1 145.0L18.6 143.3L15.4 141.3L12.6 138.9L10.4 136.2L8.8 133.2L8.1 129.9L8.0 126.4L8.7 122.8L9.9 119.2L11.4 115.6L13.0 112.2L14.6 109.0L15.9 105.9L16.7 102.9L17.0 100.0L16.7 97.1L15.9 94.1L14.6 91.0L13.0 87.8L11.4 84.4L9.9 80.8L8.7 77.2L8.0 73.6L8.1 70.1L8.8 66.8L10.4 63.8L12.6 61.1L15.4 58.7L18.6 56.7L22.1 55.0L25.5 53.5L28.8 52.0L31.8 50.4L34.3 48.7L36.4 46.6L38.1 44.2L39.3 41.4L40.3 38.2L41.2 34.7L42.1 31.1L43.3 27.4L44.7 23.9L46.5 20.7L48.8 18.0L51.5 16.0L54.6 14.7L58.1 14.0L61.7 14.0L65.5 14.5L69.2 15.4L72.9 16.5L76.3 17.4L79.6 18.2L82.7 18.5L85.6 18.3L88.4 17.5L91.2 16.1L94.0 14.3L96.9 12.2Z" fill="url(#icon_masaki_ru_light)"/>
+  <path d="M100.0 75.0L100.9 74.7L101.8 73.8L102.9 72.3L104.2 70.3L105.6 68.0L107.4 65.4L109.3 62.7L111.5 60.0L113.8 57.5L116.2 55.4L118.7 53.6L121.2 52.4L123.5 51.7L125.7 51.7L127.5 52.4L129.0 53.6L130.0 55.5L130.6 57.8L130.8 60.6L130.5 63.6L129.9 66.8L128.9 70.1L127.6 73.3L126.3 76.3L124.9 79.1L123.6 81.6L122.5 83.6L121.8 85.3L121.5 86.6L121.7 87.5L122.4 88.1L123.6 88.5L125.5 88.7L127.8 88.8L130.5 88.9L133.6 89.1L136.9 89.4L140.3 89.9L143.7 90.7L146.8 91.8L149.6 93.0L151.8 94.6L153.6 96.3L154.6 98.1L155.0 100.0L154.6 101.9L153.6 103.7L151.8 105.4L149.6 107.0L146.8 108.2L143.7 109.3L140.3 110.1L136.9 110.6L133.6 110.9L130.5 111.1L127.8 111.2L125.5 111.3L123.6 111.5L122.4 111.9L121.7 112.5L121.5 113.4L121.8 114.7L122.5 116.4L123.6 118.4L124.9 120.9L126.3 123.7L127.6 126.7L128.9 129.9L129.9 133.2L130.5 136.4L130.8 139.4L130.6 142.2L130.0 144.5L129.0 146.4L127.5 147.6L125.7 148.3L123.5 148.3L121.2 147.6L118.7 146.4L116.2 144.6L113.8 142.5L111.5 140.0L109.3 137.3L107.4 134.6L105.6 132.0L104.2 129.7L102.9 127.7L101.8 126.2L100.9 125.3L100.0 125.0L99.1 125.3L98.2 126.2L97.1 127.7L95.8 129.7L94.4 132.0L92.6 134.6L90.7 137.3L88.5 140.0L86.2 142.5L83.8 144.6L81.3 146.4L78.8 147.6L76.5 148.3L74.3 148.3L72.5 147.6L71.0 146.4L70.0 144.5L69.4 142.2L69.2 139.4L69.5 136.4L70.1 133.2L71.1 129.9L72.4 126.7L73.7 123.7L75.1 120.9L76.4 118.4L77.5 116.4L78.2 114.7L78.5 113.4L78.3 112.5L77.6 111.9L76.4 111.5L74.5 111.3L72.2 111.2L69.5 111.1L66.4 110.9L63.1 110.6L59.7 110.1L56.3 109.3L53.2 108.2L50.4 107.0L48.2 105.4L46.4 103.7L45.4 101.9L45.0 100.0L45.4 98.1L46.4 96.3L48.2 94.6L50.4 93.0L53.2 91.8L56.3 90.7L59.7 89.9L63.1 89.4L66.4 89.1L69.5 88.9L72.2 88.8L74.5 88.7L76.4 88.5L77.6 88.1L78.3 87.5L78.5 86.6L78.2 85.3L77.5 83.6L76.4 81.6L75.1 79.1L73.7 76.3L72.4 73.3L71.1 70.1L70.1 66.8L69.5 63.6L69.2 60.6L69.4 57.8L70.0 55.5L71.0 53.6L72.5 52.4L74.3 51.7L76.5 51.7L78.8 52.4L81.3 53.6L83.8 55.4L86.2 57.5L88.5 60.0L90.7 62.7L92.6 65.4L94.4 68.0L95.8 70.3L97.1 72.3L98.2 73.8L99.1 74.7Z" fill="#00504A"/>
+  <circle cx="100" cy="100" r="11" fill="#9EF2E4"/>
+</g>
+    <text x="92" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-0.3" fill="#0E241F">Masaki</text>
+    <text x="92" y="70" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600" fill="#0B735B">Браузер на Chromium · Win / macOS</text>
+
+    <!-- Arrow Badge -->
+    <rect x="526" y="26" width="36" height="36" rx="18" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+    <path d="M539 49 L549 39 M541 39 H549 V47" fill="none" stroke="#0B735B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Summary -->
+    <text x="28" y="114.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#0E241F">Матовое стекло поверх обоев, тихая панель и док, единая палитра</text>
+<text x="28" y="134.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#0E241F">команд и часы с Pixel.</text>
+
+    <line x1="28" y1="155.0" x2="562" y2="155.0" stroke="#ABDED0" stroke-width="1" opacity="0.7"/>
+
+    <!-- Bullets -->
+    <circle cx="34" cy="170.5" r="3.5" fill="#0B735B"/>
+<text x="48" y="175.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#2D524A">Свой менеджер паролей и WebAuthn passkey без Windows Hello</text>
+<text x="48" y="193.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#2D524A">(DPAPI)</text>
+<circle cx="34" cy="215.5" r="3.5" fill="#0B735B"/>
+<text x="48" y="220.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#2D524A">E2EE-синхронизация (AES-256-GCM) через личный Google Диск</text>
+<circle cx="34" cy="242.0" r="3.5" fill="#0B735B"/>
+<text x="48" y="246.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#2D524A">Встроенный мост YouCloud и порт 9222 для ИИ-агентов (MCP)</text>
+
+    <!-- Stack Chips -->
+    <g>
+  <rect x="28" y="320" width="91" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="73.5" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">TypeScript 7</text>
+</g>
+<g>
+  <rect x="124" y="320" width="85" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="166.5" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">Electron 44</text>
+</g>
+<g>
+  <rect x="214" y="320" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="247.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">React 19</text>
+</g>
+<g>
+  <rect x="285" y="320" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="321.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">Zustand 5</text>
+</g>
+<g>
+  <rect x="362" y="320" width="98" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="411.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">M3 Expressive</text>
+</g>
+<g>
+  <rect x="465" y="320" width="78" height="24" rx="12" fill="#FFFFFF" stroke="#B1E2D4" stroke-width="1"/>
+  <text x="504.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#0A5E4B">Playwright</text>
+</g>
+  </g>
+  <rect x="0.75" y="0.75" width="588.5" height="368.5" rx="25.25" fill="none" stroke="#ABDED0" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 370" width="590" height="370" role="img" aria-label="Yumi">
+  <defs>
+    <linearGradient id="cardBg_yumi_en_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D1310"/>
+      <stop offset="100%" stop-color="#271A15"/>
+    </linearGradient>
+    <radialGradient id="cardGlow_yumi_en_dark" cx="15%" cy="15%" r="70%">
+      <stop offset="0%" stop-color="#F2B8A0" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#F2B8A0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardClip_yumi_en_dark">
+      <rect x="0" y="0" width="590" height="370" rx="26"/>
+    </clipPath>
+    
+  </defs>
+  <g clip-path="url(#cardClip_yumi_en_dark)">
+    <rect width="590" height="370" rx="26" fill="url(#cardBg_yumi_en_dark)"/>
+    <rect width="590" height="370" rx="26" fill="url(#cardGlow_yumi_en_dark)"/>
+    <path d="M515.0 176.1L520.0 177.0L524.9 179.5L529.4 183.2L533.6 187.3L537.7 191.0L541.7 193.7L546.0 195.1L550.7 195.2L555.9 194.2L561.5 192.7L567.3 191.6L572.9 191.4L578.0 192.6L582.2 195.4L585.4 199.6L587.8 204.8L589.5 210.5L591.1 215.9L593.0 220.6L595.7 224.3L599.4 227.0L604.1 228.9L609.5 230.5L615.2 232.2L620.4 234.6L624.6 237.8L627.4 242.0L628.6 247.1L628.4 252.7L627.3 258.5L625.8 264.1L624.8 269.3L624.9 274.0L626.3 278.3L629.0 282.3L632.7 286.4L636.8 290.6L640.5 295.1L643.0 300.0L643.9 305.0L643.0 310.0L640.5 314.9L636.8 319.4L632.7 323.6L629.0 327.7L626.3 331.7L624.9 336.0L624.8 340.7L625.8 345.9L627.3 351.5L628.4 357.3L628.6 362.9L627.4 368.0L624.6 372.2L620.4 375.4L615.2 377.8L609.5 379.5L604.1 381.1L599.4 383.0L595.7 385.7L593.0 389.4L591.1 394.1L589.5 399.5L587.8 405.2L585.4 410.4L582.2 414.6L578.0 417.4L572.9 418.6L567.3 418.4L561.5 417.3L555.9 415.8L550.7 414.8L546.0 414.9L541.7 416.3L537.7 419.0L533.6 422.7L529.4 426.8L524.9 430.5L520.0 433.0L515.0 433.9L510.0 433.0L505.1 430.5L500.6 426.8L496.4 422.7L492.3 419.0L488.3 416.3L484.0 414.9L479.3 414.8L474.1 415.8L468.5 417.3L462.7 418.4L457.1 418.6L452.0 417.4L447.8 414.6L444.6 410.4L442.2 405.2L440.5 399.5L438.9 394.1L437.0 389.4L434.3 385.7L430.6 383.0L425.9 381.1L420.5 379.5L414.8 377.8L409.6 375.4L405.4 372.2L402.6 368.0L401.4 362.9L401.6 357.3L402.7 351.5L404.2 345.9L405.2 340.7L405.1 336.0L403.7 331.7L401.0 327.7L397.3 323.6L393.2 319.4L389.5 314.9L387.0 310.0L386.1 305.0L387.0 300.0L389.5 295.1L393.2 290.6L397.3 286.4L401.0 282.3L403.7 278.3L405.1 274.0L405.2 269.3L404.2 264.1L402.7 258.5L401.6 252.7L401.4 247.1L402.6 242.0L405.4 237.8L409.6 234.6L414.8 232.2L420.5 230.5L425.9 228.9L430.6 227.0L434.3 224.3L437.0 220.6L438.9 215.9L440.5 210.5L442.2 204.8L444.6 199.6L447.8 195.4L452.0 192.6L457.1 191.4L462.7 191.6L468.5 192.7L474.1 194.2L479.3 195.2L484.0 195.1L488.3 193.7L492.3 191.0L496.4 187.3L500.6 183.2L505.1 179.5L510.0 177.0Z" fill="#F2B8A0" opacity="0.08">
+      <animateTransform attributeName="transform" type="rotate" from="0 515 305" to="360 515 305" dur="65s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Header -->
+    <g transform="translate(28 26) scale(0.13661)">
+  <rect width="366" height="366" rx="71" fill="#5052B7"/>
+  <rect x="81" y="65" width="79" height="79" rx="11" fill="#FEFEFE"/>
+  <rect x="208.219" y="65.3521" width="79" height="79" rx="11" fill="#FEFEFE"/>
+  <path d="M130.219 252.352C130.219 258.427 135.144 263.352 141.219 263.352H169.219V291.352C169.219 297.427 164.294 302.352 158.219 302.352H101.219C95.144 302.352 90.2191 297.427 90.2191 291.352V234.352C90.2191 228.277 95.144 223.352 101.219 223.352H130.219V252.352ZM169.219 212.352C169.219 218.427 174.144 223.352 180.219 223.352H209.219V252.352C209.219 258.427 204.294 263.352 198.219 263.352H169.219V234.352C169.219 228.277 164.294 223.352 158.219 223.352H130.219V195.352C130.219 189.277 135.144 184.352 141.219 184.352H169.219V212.352ZM208.219 173.352C208.219 179.427 213.144 184.352 219.219 184.352H248.219V212.352C248.219 218.427 243.294 223.352 237.219 223.352H209.219V195.352C209.219 189.277 204.294 184.352 198.219 184.352H169.219V155.352C169.219 149.277 174.144 144.352 180.219 144.352H208.219V173.352ZM276.219 105.352C282.294 105.352 287.219 110.277 287.219 116.352L287.219 173.352C287.219 179.427 282.294 184.352 276.219 184.352H248.219V155.352C248.219 149.277 243.294 144.352 237.219 144.352H208.219V116.352C208.219 110.277 213.144 105.352 219.219 105.352H276.219Z" fill="#FEFEFE"/>
+</g>
+    <text x="92" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-0.3" fill="#FFF4F0">Yumi</text>
+    <text x="92" y="70" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600" fill="#F2B8A0">Self-Healing Xray VPN · Android &amp; TV</text>
+
+    <!-- Arrow Badge -->
+    <rect x="526" y="26" width="36" height="36" rx="18" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+    <path d="M539 49 L549 39 M541 39 H549 V47" fill="none" stroke="#F2B8A0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Summary -->
+    <text x="28" y="114.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#FFF4F0">Verifies real traffic every 20s and hot-swaps dead nodes inside</text>
+<text x="28" y="134.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#FFF4F0">Xray without dropping state.</text>
+
+    <line x1="28" y1="155.0" x2="562" y2="155.0" stroke="#50342B" stroke-width="1" opacity="0.7"/>
+
+    <!-- Bullets -->
+    <circle cx="34" cy="170.5" r="3.5" fill="#F2B8A0"/>
+<text x="48" y="175.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#DEC0B6">VLESS (REALITY / Vision / XHTTP), Hysteria2, WireGuard, Clash &amp; JSON</text>
+<circle cx="34" cy="197.0" r="3.5" fill="#F2B8A0"/>
+<text x="48" y="201.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#DEC0B6">In-tunnel DNS health probes with automatic 1.1.1.1 failover &amp; RU</text>
+<text x="48" y="220.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#DEC0B6">routing</text>
+<circle cx="34" cy="242.0" r="3.5" fill="#F2B8A0"/>
+<text x="48" y="246.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#DEC0B6">Dedicated Android TV app with QR pairing &amp; LAN Phone-as-Remote</text>
+
+    <!-- Stack Chips -->
+    <g>
+  <rect x="28" y="320" width="78" height="24" rx="12" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+  <text x="67.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#FAD2C2">Kotlin 2.2</text>
+</g>
+<g>
+  <rect x="111" y="320" width="110" height="24" rx="12" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+  <text x="166.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#FAD2C2">Jetpack Compose</text>
+</g>
+<g>
+  <rect x="226" y="320" width="98" height="24" rx="12" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+  <text x="275.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#FAD2C2">M3 Expressive</text>
+</g>
+<g>
+  <rect x="329" y="320" width="72" height="24" rx="12" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+  <text x="365.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#FAD2C2">Xray-core</text>
+</g>
+<g>
+  <rect x="406" y="320" width="78" height="24" rx="12" fill="#2C1D18" stroke="#5D3C32" stroke-width="1"/>
+  <text x="445.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#FAD2C2">Android TV</text>
+</g>
+  </g>
+  <rect x="0.75" y="0.75" width="588.5" height="368.5" rx="25.25" fill="none" stroke="#50342B" stroke-width="1.5"/>
+</svg>

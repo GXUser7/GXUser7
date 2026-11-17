@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 370" width="590" height="370" role="img" aria-label="Yumi Desktop">
+  <defs>
+    <linearGradient id="cardBg_yumi-desktop_ru_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121524"/>
+      <stop offset="100%" stop-color="#191E33"/>
+    </linearGradient>
+    <radialGradient id="cardGlow_yumi-desktop_ru_dark" cx="15%" cy="15%" r="70%">
+      <stop offset="0%" stop-color="#A8B1FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#A8B1FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardClip_yumi-desktop_ru_dark">
+      <rect x="0" y="0" width="590" height="370" rx="26"/>
+    </clipPath>
+    
+  </defs>
+  <g clip-path="url(#cardClip_yumi-desktop_ru_dark)">
+    <rect width="590" height="370" rx="26" fill="url(#cardBg_yumi-desktop_ru_dark)"/>
+    <rect width="590" height="370" rx="26" fill="url(#cardGlow_yumi-desktop_ru_dark)"/>
+    <path d="M515.0 221.3L518.3 220.8L521.8 219.2L525.4 216.7L529.5 213.5L533.9 209.8L538.8 205.9L544.0 202.0L549.6 198.5L555.4 195.6L561.1 193.6L566.8 192.6L572.1 192.9L577.0 194.3L581.2 197.0L584.6 200.9L587.2 205.7L588.9 211.3L589.8 217.5L589.9 224.0L589.5 230.5L588.6 236.9L587.6 243.0L586.7 248.5L586.1 253.4L586.0 257.6L586.6 261.1L588.1 264.1L590.5 266.5L593.9 268.6L598.2 270.5L603.2 272.5L608.8 274.5L614.7 276.9L620.7 279.6L626.4 282.8L631.5 286.5L635.9 290.7L639.2 295.2L641.2 300.0L641.9 305.0L641.2 310.0L639.2 314.8L635.9 319.3L631.5 323.5L626.4 327.2L620.7 330.4L614.7 333.1L608.8 335.5L603.2 337.5L598.2 339.5L593.9 341.4L590.5 343.5L588.1 345.9L586.6 348.9L586.0 352.4L586.1 356.6L586.7 361.5L587.6 367.0L588.6 373.1L589.5 379.5L589.9 386.0L589.8 392.5L588.9 398.7L587.2 404.3L584.6 409.1L581.2 413.0L577.0 415.7L572.1 417.1L566.8 417.4L561.1 416.4L555.4 414.4L549.6 411.5L544.0 408.0L538.8 404.1L533.9 400.2L529.5 396.5L525.4 393.3L521.8 390.8L518.3 389.2L515.0 388.7L511.7 389.2L508.2 390.8L504.6 393.3L500.5 396.5L496.1 400.2L491.2 404.1L486.0 408.0L480.4 411.5L474.6 414.4L468.9 416.4L463.2 417.4L457.9 417.1L453.0 415.7L448.8 413.0L445.4 409.1L442.8 404.3L441.1 398.7L440.2 392.5L440.1 386.0L440.5 379.5L441.4 373.1L442.4 367.0L443.3 361.5L443.9 356.6L444.0 352.4L443.4 348.9L441.9 345.9L439.5 343.5L436.1 341.4L431.8 339.5L426.8 337.5L421.2 335.5L415.3 333.1L409.3 330.4L403.6 327.2L398.5 323.5L394.1 319.3L390.8 314.8L388.8 310.0L388.1 305.0L388.8 300.0L390.8 295.2L394.1 290.7L398.5 286.5L403.6 282.8L409.3 279.6L415.3 276.9L421.2 274.5L426.8 272.5L431.8 270.5L436.1 268.6L439.5 266.5L441.9 264.1L443.4 261.1L444.0 257.6L443.9 253.4L443.3 248.5L442.4 243.0L441.4 236.9L440.5 230.5L440.1 224.0L440.2 217.5L441.1 211.3L442.8 205.7L445.4 200.9L448.8 197.0L453.0 194.3L457.9 192.9L463.2 192.6L468.9 193.6L474.6 195.6L480.4 198.5L486.0 202.0L491.2 205.9L496.1 209.8L500.5 213.5L504.6 216.7L508.2 219.2L511.7 220.8Z" fill="#A8B1FF" opacity="0.08">
+      <animateTransform attributeName="transform" type="rotate" from="0 515 305" to="360 515 305" dur="65s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Header -->
+    <g transform="translate(28 26) scale(0.12022)">
+  <rect width="366" height="366" rx="71" fill="#5052B7"/>
+  <rect x="81" y="65" width="79" height="79" rx="11" fill="#FEFEFE"/>
+  <rect x="208.219" y="65.3521" width="79" height="79" rx="11" fill="#FEFEFE"/>
+  <path d="M130.219 252.352C130.219 258.427 135.144 263.352 141.219 263.352H169.219V291.352C169.219 297.427 164.294 302.352 158.219 302.352H101.219C95.144 302.352 90.2191 297.427 90.2191 291.352V234.352C90.2191 228.277 95.144 223.352 101.219 223.352H130.219V252.352ZM169.219 212.352C169.219 218.427 174.144 223.352 180.219 223.352H209.219V252.352C209.219 258.427 204.294 263.352 198.219 263.352H169.219V234.352C169.219 228.277 164.294 223.352 158.219 223.352H130.219V195.352C130.219 189.277 135.144 184.352 141.219 184.352H169.219V212.352ZM208.219 173.352C208.219 179.427 213.144 184.352 219.219 184.352H248.219V212.352C248.219 218.427 243.294 223.352 237.219 223.352H209.219V195.352C209.219 189.277 204.294 184.352 198.219 184.352H169.219V155.352C169.219 149.277 174.144 144.352 180.219 144.352H208.219V173.352ZM276.219 105.352C282.294 105.352 287.219 110.277 287.219 116.352L287.219 173.352C287.219 179.427 282.294 184.352 276.219 184.352H248.219V155.352C248.219 149.277 243.294 144.352 237.219 144.352H208.219V116.352C208.219 110.277 213.144 105.352 219.219 105.352H276.219Z" fill="#FEFEFE"/>
+</g>
+<g>
+  <rect x="56.0" y="54.0" width="22.0" height="22.0" rx="6" fill="#181C30" stroke="#A8B1FF" stroke-width="1.6"/>
+  <rect x="60.8" y="59.3" width="12.3" height="7.9" rx="1.5" fill="none" stroke="#A8B1FF" stroke-width="1.5"/>
+  <path d="M63.7 70.3 H70.3" stroke="#A8B1FF" stroke-width="1.6" stroke-linecap="round"/>
+</g>
+    <text x="92" y="48" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-0.3" fill="#F2F4FF">Yumi Desktop</text>
+    <text x="92" y="70" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600" fill="#A8B1FF">Десктопный VPN · Win / macOS / Linux</text>
+
+    <!-- Arrow Badge -->
+    <rect x="526" y="26" width="36" height="36" rx="18" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+    <path d="M539 49 L549 39 M541 39 H549 V47" fill="none" stroke="#A8B1FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Summary -->
+    <text x="28" y="114.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#F2F4FF">Матовое стекло с фигурами на пружинках и разделение прав:</text>
+<text x="28" y="134.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.8" font-weight="500" fill="#F2F4FF">интерфейс + служба на Go.</text>
+
+    <line x1="28" y1="155.0" x2="562" y2="155.0" stroke="#323A66" stroke-width="1" opacity="0.7"/>
+
+    <!-- Bullets -->
+    <circle cx="34" cy="170.5" r="3.5" fill="#A8B1FF"/>
+<text x="48" y="175.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#BDC3E6">Килл-свитч и DNS-замок на уровне ядра ОС: динамический WFP,</text>
+<text x="48" y="193.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#BDC3E6">nftables и pf</text>
+<circle cx="34" cy="215.5" r="3.5" fill="#A8B1FF"/>
+<text x="48" y="220.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#BDC3E6">«Местоположение — как у сервера» (таймзона + блок геолокации ОС)</text>
+<circle cx="34" cy="242.0" r="3.5" fill="#A8B1FF"/>
+<text x="48" y="246.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#BDC3E6">Раздельное туннелирование приложений, RU-обход и QR-импорт с</text>
+<text x="48" y="265.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.8" font-weight="430" fill="#BDC3E6">телефона</text>
+
+    <!-- Stack Chips -->
+    <g>
+  <rect x="28" y="320" width="78" height="24" rx="12" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+  <text x="67.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#CED4FF">Kotlin 2.3</text>
+</g>
+<g>
+  <rect x="111" y="320" width="110" height="24" rx="12" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+  <text x="166.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#CED4FF">Compose Desktop</text>
+</g>
+<g>
+  <rect x="226" y="320" width="59" height="24" rx="12" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+  <text x="255.5" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#CED4FF">Go 1.26</text>
+</g>
+<g>
+  <rect x="290" y="320" width="72" height="24" rx="12" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+  <text x="326.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#CED4FF">Xray-core</text>
+</g>
+<g>
+  <rect x="367" y="320" width="136" height="24" rx="12" fill="#1B2038" stroke="#3C467A" stroke-width="1"/>
+  <text x="435.0" y="335.6" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.4" font-weight="600" fill="#CED4FF">WFP / nftables / pf</text>
+</g>
+  </g>
+  <rect x="0.75" y="0.75" width="588.5" height="368.5" rx="25.25" fill="none" stroke="#323A66" stroke-width="1.5"/>
+</svg>

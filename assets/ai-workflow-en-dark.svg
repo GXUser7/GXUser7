@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="AI Agents &amp; Orchestration">
+  <defs>
+    <linearGradient id="aiBg_en_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#13131E"/>
+      <stop offset="100%" stop-color="#1A1828"/>
+    </linearGradient>
+    <clipPath id="aiClip_en_dark">
+      <rect x="0" y="0" width="1200" height="320" rx="26"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#aiClip_en_dark)">
+    <rect width="1200" height="320" rx="26" fill="url(#aiBg_en_dark)"/>
+
+    <text x="32" y="38" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.6" fill="#A8B1FF">AI-NATIVE ENGINEERING · MULTI-AGENT WORKFLOW</text>
+    <text x="32" y="68" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" fill="#F3F1FF">AI Agents &amp; Orchestration</text>
+
+    <g>
+  <rect x="32" y="88" width="364" height="164" rx="20" fill="#211819" stroke="#4E342E" stroke-width="1.2"/>
+  <rect x="50" y="104" width="34" height="34" rx="10" fill="#2B1E1C" stroke="#5D3C34"/>
+<path d="M60 116 L66 121 L60 126 M68 126 H75" fill="none" stroke="#E89274" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="94" y="119" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#F3F1FF">Claude Code</text>
+  <text x="94" y="137" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600" fill="#E89274">CLAUDE.md · DevTools MCP</text>
+  <text x="50" y="160.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">Deep multi-module architecture, CLAUDE.md</text>
+<text x="50" y="178.2" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">contracts, and live tab automation inside</text>
+<text x="50" y="196.4" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">Masaki via chrome-devtools-mcp (:9222).</text>
+  <g>
+  <rect x="50" y="216" width="79" height="23" rx="11.5" fill="#2B1E1C" stroke="#5D3C34" stroke-width="1"/>
+  <text x="89.5" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#FAD2C2">CLAUDE.md</text>
+</g>
+<g>
+  <rect x="135" y="216" width="100" height="23" rx="11.5" fill="#2B1E1C" stroke="#5D3C34" stroke-width="1"/>
+  <text x="185.0" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#FAD2C2">DevTools MCP</text>
+</g>
+<g>
+  <rect x="241" y="216" width="79" height="23" rx="11.5" fill="#2B1E1C" stroke="#5D3C34" stroke-width="1"/>
+  <text x="280.5" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#FAD2C2">Port 9222</text>
+</g>
+</g>
+<g>
+  <rect x="418" y="88" width="364" height="164" rx="20" fill="#13201E" stroke="#274B44" stroke-width="1.2"/>
+  <rect x="436" y="104" width="34" height="34" rx="10" fill="#182D28" stroke="#2D5C51"/>
+<text x="453" y="126" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="15" font-weight="800" fill="#5FD4B4">{}</text>
+  <text x="480" y="119" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#F3F1FF">OpenAI Codex</text>
+  <text x="480" y="137" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600" fill="#5FD4B4">AGENTS.md · Sandboxed QA</text>
+  <text x="436" y="160.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">Autonomous task execution governed by</text>
+<text x="436" y="178.2" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">AGENTS.md, cross-platform Go tunnel</text>
+<text x="436" y="196.4" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">daemons, and E2E regression suites.</text>
+  <g>
+  <rect x="436" y="216" width="79" height="23" rx="11.5" fill="#182D28" stroke="#2D5C51" stroke-width="1"/>
+  <text x="475.5" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#B7F4E3">AGENTS.md</text>
+</g>
+<g>
+  <rect x="521" y="216" width="100" height="23" rx="11.5" fill="#182D28" stroke="#2D5C51" stroke-width="1"/>
+  <text x="571.0" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#B7F4E3">Sandboxed QA</text>
+</g>
+<g>
+  <rect x="627" y="216" width="113" height="23" rx="11.5" fill="#182D28" stroke="#2D5C51" stroke-width="1"/>
+  <text x="683.5" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#B7F4E3">Playwright E2E</text>
+</g>
+</g>
+<g>
+  <rect x="804" y="88" width="364" height="164" rx="20" fill="#19172A" stroke="#3A3463" stroke-width="1.2"/>
+  <rect x="822" y="104" width="34" height="34" rx="10" fill="#221E3A" stroke="#49417B"/>
+<path d="M839 111 L841.6 118.4 L849 121 L841.6 123.6 L839 131 L836.4 123.6 L829 121 L836.4 118.4 Z" fill="#B8B0FF"/>
+  <text x="866" y="119" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" fill="#F3F1FF">Google Antigravity</text>
+  <text x="866" y="137" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="10.8" font-weight="600" fill="#B8B0FF">Orchestrator · Custom Skills</text>
+  <text x="822" y="160.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">Two-phase Plan &amp; Execute orchestration,</text>
+<text x="822" y="178.2" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">cross-repository research, and unified</text>
+<text x="822" y="196.4" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="440" fill="#B6B1D1">Material 3 Expressive craft.</text>
+  <g>
+  <rect x="822" y="216" width="100" height="23" rx="11.5" fill="#221E3A" stroke="#49417B" stroke-width="1"/>
+  <text x="872.0" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#DCD7FF">Orchestrator</text>
+</g>
+<g>
+  <rect x="928" y="216" width="86" height="23" rx="11.5" fill="#221E3A" stroke="#49417B" stroke-width="1"/>
+  <text x="971.0" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#DCD7FF">Multi-Repo</text>
+</g>
+<g>
+  <rect x="1020" y="216" width="106" height="23" rx="11.5" fill="#221E3A" stroke="#49417B" stroke-width="1"/>
+  <text x="1073.0" y="231.3" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" fill="#DCD7FF">Custom Skills</text>
+</g>
+</g>
+
+    <!-- Pipeline Footer Strip -->
+    <rect x="32" y="266" width="1136" height="34" rx="17" fill="#1D1B2D" stroke="#3B365C" stroke-width="1"/>
+    <text x="600" y="287" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600" fill="#B6B1D1">M3 Expressive Craft  →  CLAUDE.md / AGENTS.md Specs  →  Claude Code · Codex · Antigravity + MCP  →  20+ Automated Suites</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="25.25" fill="none" stroke="#322E4B" stroke-width="1.5"/>
+</svg>
